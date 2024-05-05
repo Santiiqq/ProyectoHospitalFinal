@@ -1,0 +1,17 @@
+Modelo\Hospital.class
+Vista\MenuPaciente.class
+Controlador\ControladorHistorial.class
+Vista\MenuHistorial.class
+Modelo\Cita.class
+Controlador\GestorCitas.class
+Modelo\HistorialMedico.class
+Controlador\ControladorDetalles.class
+Modelo\Paciente.class
+Controlador\ControladorPrincipal.class
+Vista\MenuDetalles.class
+Modelo\Medico.class
+Vista\MenuMedico.class
+Vista\MenuPrincipal.class
+Modelo\Persona.class
+com\mycompany\proyectohospitalfinal\ProyectoHospitalFinal.class
+Vista\MenuCita.class
